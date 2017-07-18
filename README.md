@@ -1,4 +1,4 @@
-## Django 101
+## Django 101: Fundamentals
 _Practice Django 1.11 fundamentals with this helpful tutorial._
 
 ### Introduction
