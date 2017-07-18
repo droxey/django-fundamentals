@@ -7,6 +7,16 @@ Once complete, you'll have an end-to-end understanding of how each part of the D
 
 ### Prerequisites
 - Create a public fork of this repository, and commit incremental progress as you complete the tutorial.
+- Do your work inside of a virtualenv. 
+
+### Setup
+Run the following commands to set up a `virtualenv` in your environment for this project:
+```
+sudo pip install virtualenv
+mkdir django101 && cd django101
+virtualenv venv
+. venv/bin/activate
+```
 
 ### Assignment
 The official Django tutorial provides a very in-depth route to understanding the framework. 
