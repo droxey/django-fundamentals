@@ -7,16 +7,25 @@ Once complete, you'll have an end-to-end understanding of how each part of the D
 
 ### Prerequisites
 - Create a public fork of this repository, and commit incremental progress as you complete the tutorial.
-- Do your work inside of a virtualenv. 
+- Do your work inside of a `virtualenv`. 
 
 ### Setup
-Run the following commands to set up a `virtualenv` in your environment for this project:
+1. Press the `Fork` button at the top-right of this repository. 
+2. In your terminal, create a directory for the project, and `cd` into it:
+```
+mkdir django101 && cd django101
+```
+3. Run the following commands to install, create, and activate a `virtualenv` for this project:
 ```
 sudo pip install virtualenv
-mkdir django101 && cd django101
 virtualenv venv
 . venv/bin/activate
 ```
+4. Clone the forked repository. Be sure to replace YOUR_GITHUB_USERNAME with the username you use to log in to GitHub:
+```
+git clone git@github.com:YOUR_GITHUB_USERNAME/django-fundamentals.git
+```
+5. Setup complete. You're ready to begin the assignment!
 
 ### Assignment
 The official Django tutorial provides a very in-depth route to understanding the framework. 
