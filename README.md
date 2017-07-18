@@ -32,3 +32,6 @@ Complete each step of the tutorial, linked below :
 - The tutorial should take a maximum of 8 hours.
 - When you're ready to submit your code for review, create a Pull Request (PR).
 - PR is due 48 hours after receipt of assignment. 
+
+#### Additional Resources
+- [django-fundamentals wiki](https://github.com/droxey/django-fundamentals/wiki "django-fundamentals wiki")
